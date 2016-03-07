@@ -1,0 +1,8 @@
+
+body { background-color: LightGray; font-family: 'Roboto', sans-serif;
+font-size: 16px; color: #838994; letter-spacing: 0.03em; }
+p { border: 1px solid Chocolate; }
+
+.nav_wrap { height: 4.375rem; width: 60rem; background-color: #fff; }
+.nav_info { width: 970px; height: 70px; padding: 0px 15px; }
+.nav_link div { float: right; display: inline-block; margin-top: -17px; }
